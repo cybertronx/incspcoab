@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="incluirSPCOAB">
+    <output-path>$PROJECT_DIR$/out/artifacts/incluirSPCOAB</output-path>
+    <root id="archive" name="incluirSPCOAB.jar">
+      <element id="module-output" name="incspcoab" />
+      <element id="library" level="project" name="mge-modelcore" />
+      <element id="library" level="project" name="servlet" />
+      <element id="library" level="project" name="servlet-api" />
+    </root>
+  </artifact>
+</component>

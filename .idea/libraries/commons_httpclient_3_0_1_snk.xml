@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-httpclient-3.0.1-snk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../libs/api_outros/commons-httpclient-3.0.1-snk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
