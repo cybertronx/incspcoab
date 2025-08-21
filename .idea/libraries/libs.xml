@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../libs" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/doc/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../libs/flex-sdk/3.6.0/ant/src" />
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/samples/DynaTableRf/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/samples/DynaTable/src" />
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/samples/Hello/src" />
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/samples/JSON/src" />
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/samples/Mail/src" />
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/samples/MobileWebApp/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/samples/MobileWebApp/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/samples/Showcase/src" />
+      <root url="file://$PROJECT_DIR$/../../libs/gwt-2.7.0/samples/Validation/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../libs" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../libs" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../libs" recursive="false" type="SOURCES" />
+  </library>
+</component>
