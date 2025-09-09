@@ -52,8 +52,6 @@ public class GerarFinanceiroPendentes implements ScheduledAction {
                 log.info("[LOG SPC] ###### Gerando Financeiro para o Parceiro: " +codparc.toString());
                 log.info("[LOG SPC] ###### Nr de Financeiros a Serem Criados : " +numTitulos);
 
-
-
                 for (int i = 0; i < numTitulos; i++) {
                     NativeSql sqlBusca = new NativeSql(jdbc);
                     sqlBusca.appendSql("SELECT TOP " + qtdCria + " SEQUENCIA FROM AD_DADOSINCEXCSPC " +
